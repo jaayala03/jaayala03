@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Jonathan Ayala</h1>
+<h1 align="center">Hi ✌, I'm Jonathan Ayala</h1>
 <h3 align="center">A passionate Sr full stack developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaayala03&label=Profile%20views&color=0e75b6&style=flat" alt="jaayala03" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaayala03" target="blank"><img src="https://img.shields.io/twitter/follow/jaayala03?logo=twitter&style=for-the-badge" alt="jaayala03" /></a> </p>
 
-- ðŸ“« How to reach me **jaayala03@gmail.com**
+- ✔ How to reach me **jaayala03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
