@@ -58,13 +58,11 @@ contact:    jaayala03@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=jaayala03&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=0891b2" />
+  <img align="center" height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=jaayala03&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=0891b2&hide_border=false" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=jaayala03&layout=compact&theme=tokyonight&border_color=0891b2&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=jaayala03&theme=tokyonight&border=0891b2&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <img align="center" height="160" src="https://streak-stats.demolab.com?user=jaayala03&theme=tokyonight&border=0891b2&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  &nbsp;
+  <img align="center" height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=jaayala03&layout=compact&theme=tokyonight&border_color=0891b2&langs_count=6" />
 </div>
 
 ---
