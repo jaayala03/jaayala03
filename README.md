@@ -58,9 +58,9 @@ contact:    jaayala03@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaayala03&show_icons=true&count_private=true&theme=tokyonight&border_color=0891b2&hide_border=false&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=jaayala03&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=0891b2" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaayala03&layout=compact&theme=tokyonight&border_color=0891b2&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=jaayala03&layout=compact&theme=tokyonight&border_color=0891b2&langs_count=8" />
 </div>
 
 <div align="center">
